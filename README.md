@@ -4,6 +4,10 @@ A proof-of-concept tool designed to improve the classification and routing of le
 
 **🚀 [Live Demo on Replit](https://replit.com/@taroii/DF2023-Attorney-Search?v=1)**
 
+**📄 [Project Details](https://taroiyadomi.netlify.app/articles/attorney_search/)**
+
+**📊 [Presentation Slides](https://docs.google.com/presentation/d/1bQCYkxnFNVQGjQCFuIDbAG_xSq_VcFGqViplO63UB44/edit?usp=sharing)**
+
 *ACM DataFest 2023 - Team DataMinerz*
 
 ## Overview
